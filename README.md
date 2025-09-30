@@ -22,4 +22,12 @@ The code generates the following visual analyses:
 - seaborn
 
 ## Charts you will visualise
+![Italian-Financial-Stocks-Analysis](Stock Returns.png)
+![Italian-Financial-Stocks-Analysis](Violin plot.png)
+![Italian-Financial-Stocks-Analysis](Histogram.png)
 ![Italian-Financial-Stocks-Analysis](Heatmap.png)
+
+## Author
+Raoul Alessandro Baciu
+Master's student in Economics and Finance at Ca' Foscari
+[Linkedin](www.linkedin.com/in/raoul-alessandro-baciu-12004b236)
