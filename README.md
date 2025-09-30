@@ -22,4 +22,4 @@ The code generates the following visual analyses:
 - seaborn
 
 ## Charts you will visualise
-![Italian-Financial-Stocks-Analysis](Stock Returns.png)
+![Italian-Financial-Stocks-Analysis]Heatmap.png
