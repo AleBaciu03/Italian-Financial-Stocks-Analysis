@@ -21,9 +21,7 @@ The code generates the following visual analyses:
 - datetime
 - seaborn
 
-## Charts you will visualise
-![Italian-Financial-Stocks-Analysis](Stock Returns.png)
-![Italian-Financial-Stocks-Analysis](Violin plot.png)
+## Example of two Charts that you will visualise
 ![Italian-Financial-Stocks-Analysis](Histogram.png)
 ![Italian-Financial-Stocks-Analysis](Heatmap.png)
 
